@@ -1,0 +1,5 @@
+En gitbash
+En mi_repositorio 
+git add *
+git commit -a -m 'el nombre que le queramos dar'
+git push origin
